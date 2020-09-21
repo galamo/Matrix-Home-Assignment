@@ -50,6 +50,6 @@ ability to add comments under each favorite country with the following informati
 this page will present a bar chart that contain all the favorites countries populaion of the current user, x axis - country name
 y axis - number of population
 
-### Deployment
+### Serve
 
 The project must be served on github with client and server folders with all the relevant files, readme for documentations and "how to?" starting the project locally.
